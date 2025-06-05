@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+title: Welcome to Agneay B Nair's Tech and productivity blog!
 ---
